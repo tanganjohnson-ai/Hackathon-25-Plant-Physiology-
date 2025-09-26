@@ -11,3 +11,6 @@ Dr. Johnson’s dedication to education is evident in her wide-ranging teaching 
 Mentor 1:	Olabisi Ojo- Albany State University
 Mentor 2: Fernando Posada- ORNL
 Science Gateways & HPC Tools: NSF Jetstream2 (cloud computing via ACCESS allocation), Cornell Virtual Workshop (self-paced HPC tutorials), and HPC Carpentry (reproducible bio workflows).
+[BIOL 412 Plant Physiology Syllabus .pdf](https://github.com/user-attachments/files/22566359/BIOL.412.Plant.Physiology.Syllabus.pdf)
+[BIOL 412 Plant Physiology Syllabus Hackathon.pdf](https://github.com/user-attachments/files/22566360/BIOL.412.Plant.Physiology.Syllabus.Hackathon.pdf)
+[FacultyHack25_Poster_Template.pptx](https://github.com/user-attachments/files/22566404/FacultyHack25_Poster_Template.pptx)
