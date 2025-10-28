@@ -9,7 +9,8 @@ With over **two decades of teaching experience**, Dr. Johnson has excelled in co
 Dr. Johnson’s dedication to education is evident in her wide-ranging teaching career, spanning from elementary to graduate-level instruction. Her **evidence-based teaching philosophy** emphasizes the use of technology and dialogue to foster critical thinking. She is an active member of the **Society of Toxicology** and the **American Society of Microbiology**, and her scholarship includes numerous **publications and presentations**.
 ![IMG_3275](https://github.com/user-attachments/assets/417eea11-b0e0-449c-91a6-0e02c7decb29)
 Mentor 1:	Olabisi Ojo- Albany State University
-Mentor 2: Fernando Posada- ORNL
+Mentor 2: Elmellouki, Mohammed-Mississippi Valley State 
+
 Science Gateways & HPC Tools: NSF Jetstream2 (cloud computing via ACCESS allocation), Cornell Virtual Workshop (self-paced HPC tutorials), and HPC Carpentry (reproducible bio workflows).
 [BIOL 412 Plant Physiology Syllabus .pdf](https://github.com/user-attachments/files/22566359/BIOL.412.Plant.Physiology.Syllabus.pdf)
 [BIOL 412 Plant Physiology Syllabus Hackathon.pdf](https://github.com/user-attachments/files/22566360/BIOL.412.Plant.Physiology.Syllabus.Hackathon.pdf)
