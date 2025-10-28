@@ -14,4 +14,5 @@ Mentor 2: Elmellouki, Mohammed-Mississippi Valley State
 Science Gateways & HPC Tools: NSF Jetstream2 (cloud computing via ACCESS allocation), Cornell Virtual Workshop (self-paced HPC tutorials), and HPC Carpentry (reproducible bio workflows).
 [BIOL 412 Plant Physiology Syllabus .pdf](https://github.com/user-attachments/files/22566359/BIOL.412.Plant.Physiology.Syllabus.pdf)
 [BIOL 412 Plant Physiology Syllabus Hackathon.pdf](https://github.com/user-attachments/files/22566360/BIOL.412.Plant.Physiology.Syllabus.Hackathon.pdf)
-[FacultyHack25_Poster_Template.pptx](https://github.com/user-attachments/files/22566404/FacultyHack25_Poster_Template.pptx)
+[FacultyHack25_Poster Final Final (TKJ).pdf](https://github.com/user-attachments/files/23176623/FacultyHack25_Poster.Final.Final.TKJ.pdf)
+
